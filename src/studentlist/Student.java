@@ -15,6 +15,7 @@ public class Student {
     private String studName;
     private String studId;
     private String program;
+    private String age;
 
     public Student() {
     }
